@@ -1,0 +1,2 @@
+class hola():
+    _
