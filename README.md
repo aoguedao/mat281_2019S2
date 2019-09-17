@@ -27,10 +27,10 @@
 * **Módulo 3 - Visualización:** Teoría y herramientas útiles para la correcta exposición de datos y resultados.
 
 
-* **Módulo 4 - Data Science:** Obtener conocimiento a través de los datos, predecir valores. Darle valor a los datos.
+* **Módulo 4 - Machine Learning:** Obtener conocimiento a través de los datos, predecir valores. Darle valor a los datos.
 
 
-* **Módulo 5 - Proyecto:** .
+* **Módulo 5 - Data Science:** Bienvenido al mundo real.
 
 
 
