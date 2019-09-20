@@ -1,8 +1,11 @@
 <header>
-<img src="./images/utfsm.png" alt="UTFSM" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" width=200 alt="UTFSM" align="left"/>
 <img src="./images/dmat.png" alt="DMAT" align="right"/>
 </header>
 </br></br></br></br></br>
+
+</br>
+</br>
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
@@ -12,7 +15,7 @@
     - Casa Central: [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
     - Campus San Joaquín: [Francisco Alfaro](https://www.linkedin.com/in/francisco-alfaro-medina-80820aa2)
 
-* **Repositorio Código**: [Asignatura](https://github.com/aLoNsolml/mat281_2019S22)
+* **Repositorio Código**: [mat281_2019S2](https://github.com/aLoNsolml/mat281_2019S2)
 
 * **Licencia**: [MIT](./LICENCE.md)
 
