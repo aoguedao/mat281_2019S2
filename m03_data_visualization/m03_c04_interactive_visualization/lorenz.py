@@ -9,7 +9,7 @@ def solve_lorenz(sigma=10.0, beta=8./3, rho=28.0):
     max_time = 4.0
     N = 30
 
-    fig = plt.figure(figsize=(20, 20))
+    fig = plt.figure(figsize=(12, 10))
     ax = fig.add_axes([0, 0, 1, 1], projection='3d')
     ax.axis('off')
 
